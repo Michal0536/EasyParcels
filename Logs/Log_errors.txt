@@ -1,0 +1,2 @@
+ERROR:root:2023-04-24 11:08:46.852899 [Michal] [UPS] -1
+ERROR:root:2023-04-24 11:32:45.048792 [Michal] tuple indices must be integers or slices, not str
